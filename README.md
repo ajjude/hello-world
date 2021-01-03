@@ -1,2 +1,2 @@
 # hello-world
-# testing jenkins job
+# testing jenkins integration
